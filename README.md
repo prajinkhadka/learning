@@ -378,9 +378,11 @@
 ### Be able to implement models in PyTorch
 - [] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [X] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
-- [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [X] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [X] [Pluralsight: Building Deep Learning Solutions with Pytorch](https://app.pluralsight.com/paths/skill/building-deep-learning-solutions-with-pytorch)
 - [X] [Guvi(An IIT-M & IIM-A Incubated Company): Deep Learning Certification](https://www.guvi.in/deep-learning)
+- [X] [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
 
 
 ### Be able to implement edge inference
