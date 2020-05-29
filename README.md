@@ -244,7 +244,7 @@
 - [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
 - [ ] [Book: Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://www.deeplearningillustrated.com/)
 - [ ] [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
-- [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [X] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [ ] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Winning a Kaggle Competition in Python](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
@@ -277,7 +277,7 @@
 - [ ] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [X] [Udacity: Reinforcement Learning : Upto Temporal Difference (TD)](https://www.udacity.com/course/reinforcement-learning--ud600)
 - [X] [Reinforcement Learning Book : Upto Temporal Difference (TD)](http://incompleteideas.net/book/the-book-2nd.html)
-- [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+- [X] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [ ] [Udacity: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
 - [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
@@ -381,7 +381,6 @@
 - [X] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [X] [Pluralsight: Building Deep Learning Solutions with Pytorch](https://app.pluralsight.com/paths/skill/building-deep-learning-solutions-with-pytorch)
 - [X] [Guvi(An IIT-M & IIM-A Incubated Company): Deep Learning Certification](https://www.guvi.in/deep-learning)
-- [X] [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
 
 
